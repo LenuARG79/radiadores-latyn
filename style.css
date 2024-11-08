@@ -14,7 +14,7 @@ body {
     position: fixed;
     color: white;
     font-size: 40px;
-    right: 25px;
+    right: 80px;
     bottom:60px;
     z-index: 4;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 .banner-img {
-    background-image: url(img/30_de_descuento_en_radiadores_latyn.png);
+    background-image: url(img/30_de_descuento_en_radiadores_latyn.gif);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
