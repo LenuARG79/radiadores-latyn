@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #4b706e;
+    background-color:#1b1f23;
 }
 
 /*whatsapp*/
@@ -33,20 +33,20 @@ body {
       display: flex;
       justify-content: center;
       align-items: center;
-      width: 100vw;
-      height: 100vh;
+      width: 100%;
+      height: 100%;
 }
 .banner-img {
-    background-image: url(./img/30_de_descuento_en_radiadores_latyn_pc.gif);
+    background-image: url(img/30_de_descuento_en_radiadores_latyn_pc.gif);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
 }
 
 
-@media (min-width:768px) and (max-width:1024px) {
+@media (min-width:768px) and (max-width:980px) {
     .whatsapp-pc {
         font-size: 40px;
         visibility: visible;
@@ -55,7 +55,7 @@ body {
         visibility: hidden;
     }
     .banner-img {
-        background-image: url(./img/30_de_descuento_en_radiadores_latyn_tablet.gif);
+        background-image: url(img/30_de_descuento_en_radiadores_latyn_tablet.gif);
     }
 }
 
@@ -68,6 +68,6 @@ body {
         visibility: visible;
     }
     .banner-img {
-        background-image: url(./img/30_de_descuento_en_radiadores_latyn_mobil.gif);
+        background-image: url(img/30_de_descuento_en_radiadores_latyn_mobil.gif);
     }
 }    
