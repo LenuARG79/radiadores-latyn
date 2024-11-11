@@ -37,7 +37,7 @@ body {
       height: 100vh;
 }
 .banner-img {
-    background-image: url(/img/30_de_descuento_en_radiadores_latyn_pc.gif);
+    background-image: url(./img/30_de_descuento_en_radiadores_latyn_pc.gif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -55,7 +55,7 @@ body {
         visibility: hidden;
     }
     .banner-img {
-        background-image: url(/img/30_de_descuento_en_radiadores_latyn_tablet.gif);
+        background-image: url(./img/30_de_descuento_en_radiadores_latyn_tablet.gif);
     }
 }
 
@@ -68,6 +68,6 @@ body {
         visibility: visible;
     }
     .banner-img {
-        background-image: url(/img/30_de_descuento_en_radiadores_latyn_mobil.gif);
+        background-image: url(./img/30_de_descuento_en_radiadores_latyn_mobil.gif);
     }
 }    
