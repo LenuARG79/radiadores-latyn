@@ -46,7 +46,7 @@ body {
 }
 
 
-@media (min-width:768px) and (max-width:980px) {
+/*media (min-width:768px) and (max-width:980px) {
     .whatsapp-pc {
         font-size: 40px;
         visibility: visible;
@@ -57,9 +57,9 @@ body {
     .banner-img {
         background-image: url(img/30_de_descuento_en_radiadores_latyn_tablet.gif);
     }
-}
+}*/
 
-@media (max-width:767px){
+@media (max-width:620px){
     .whatsapp-pc {
         font-size: 40px;
         visibility: hidden;
